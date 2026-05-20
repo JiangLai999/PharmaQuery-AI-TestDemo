@@ -28,6 +28,26 @@ python run_demo.py
 - Jaccard (character overlap): **0.00** — zero shared characters, keyword match fails
 - BERT (semantic embedding): **0.73** — model learned cephalosporins are antibiotics from training data
 
+## Screenshots / 运行截图
+
+### Workflow 1: Real AI Semantic NER
+
+![NER Demo](images/testdemo1.png)
+
+### Workflow 2: Real AI Semantic Similarity
+
+![Similarity Demo](images/testdemo2.png)
+
+### Workflow 3: Collaborative Filtering Recommendation
+
+![CF Part 1](images/testdemo3.png)
+
+![CF Part 2](images/testdemo4.png)
+
+### Test Results (11/11 Passing)
+
+![Test Results](images/testdemo5.png)
+
 ## Run Tests
 
 ```bash
